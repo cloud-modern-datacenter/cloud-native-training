@@ -82,7 +82,7 @@ Every Consultant/Engineer/Architect should have the following skills:
 ### Continuous Delivery
 
 Introduction
-* [https://continuousdelivery.com/ by Jezz Humble and David Farley](https://continuousdelivery.com/)
+* [Continuous Delivery by Jezz Humble and David Farley](https://continuousdelivery.com/)
 * [Continuous Delivery by Martin Fowler](https://martinfowler.com/bliki/ContinuousDelivery.html)
 * [CI/CD best practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
 
@@ -128,11 +128,16 @@ Kubernetes
 
 ### Conferences
 
+* [AWS Summit](https://aws.amazon.com/summits/benelux/)
 * [Cloud Native Con](http://events.linuxfoundation.org/events/cloudnativecon)
+* [Container Days](https://www.containerdays.io/)
+* [DevOps Days](https://www.devopsdays.org/events/2019-amsterdam/welcome/)
 * [DevOps Summit Amsterdam](https://www.devopssummitamsterdam.com/)
 * [Dockercon](http://2018.dockercon.com/)
+* [HashiDays](https://www.hashicorp.com/blog/hashidays-amsterdam-2018-recap)
 * [Kubecon](http://events.linuxfoundation.org/events/kubecon)
 * [Software Circus](http://cloudnativecomputing.softwarecircus.io/)
+
 
 ### Books
 
