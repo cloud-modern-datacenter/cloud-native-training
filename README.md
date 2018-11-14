@@ -26,7 +26,7 @@ The Cloud Native Computing Foundation seeks to drive adoption of this paradigm b
 
 ### Maturity
 
-Some interesting views from different companies on the maturity of Cloud Native:
+Some interesting views on the maturity model/levels of Cloud Native organizations:
 
 * https://www.mojotech.com/blog/cloud-native-maturity-model/
 * https://container-solutions.com/cloud-native-maturity-matrix/
@@ -117,6 +117,15 @@ Docker
 Kubernetes
 * [Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
 * [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+
+Linux Foundation
+* [Certified SysAdmin (LFCS]()
+* [Certified Engineer (LFCE)]()
+
+Red Hat
+* [Certified System Administrator (RHCSA)]()
+* [Certified Engineer (RHCE)]()
+* [Certified Architect (RHCA)]()
 
 ## Resources
 
