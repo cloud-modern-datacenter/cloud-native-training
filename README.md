@@ -109,23 +109,24 @@ Google Cloud (GCP)
 * [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect/)
 
 DevOps
-* [Dasa DevOps](https://www.devopsagileskills.org/)
+* [Dasa DevOps Fundamentals](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/)
+* [Dasa DevOps Professional](https://www.devopsagileskills.org/certifications/dasa-devops-professional-enable-and-scale/)
 
 Docker
-* [Docker Certified Associate](https://success.docker.com/certification)
+* [Docker Certified Associate (DCA)](https://success.docker.com/certification)
 
 Kubernetes
-* [Certified Kubernetes Administrator](https://www.cncf.io/certification/cka/)
-* [Certified Kubernetes Application Developer](https://www.cncf.io/certification/ckad/)
+* [Certified Kubernetes Administrator (CKA)](https://www.cncf.io/certification/cka/)
+* [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 
 Linux Foundation
-* [Certified SysAdmin (LFCS]()
-* [Certified Engineer (LFCE)]()
+* [Certified SysAdmin (LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
+* [Certified Engineer (LFCE)](https://training.linuxfoundation.org/certification/linux-foundation-certified-engineer-lfce/)
 
 Red Hat
-* [Certified System Administrator (RHCSA)]()
-* [Certified Engineer (RHCE)]()
-* [Certified Architect (RHCA)]()
+* [Certified System Administrator (RHCSA)](https://www.redhat.com/en/services/certification/rhcsa)
+* [Certified Engineer (RHCE)](https://www.redhat.com/en/services/certification/rhce)
+* [Certified Architect (RHCA)](https://www.redhat.com/en/services/certification/rhca)
 
 ## Resources
 
