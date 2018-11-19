@@ -52,6 +52,18 @@ Every Consultant/Engineer/Architect should have the following skills:
 * [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
 * [AWS Certified Solutions Architect Associate Online Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 
+### Continuous Delivery
+
+Introduction
+* [Continuous Delivery by Jezz Humble and David Farley](https://continuousdelivery.com/)
+* [Continuous Delivery by Martin Fowler](https://martinfowler.com/bliki/ContinuousDelivery.html)
+* [CI/CD best practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
+
+Tools
+* [Circle CI](https://github.com/circleci)
+* [Gitlab CI/CD](https://about.gitlab.com/features/gitlab-ci-cd)
+* [Jenkins](https://www.jenkins.io)
+
 ### DevOps
 
 * [Introduction to DevOps: Transforming and Improving Operations](https://www.linuxfoundation.org/blog/2017/01/how-to-make-the-most-of-the-free-intro-to-devops-course-on-edx/)
@@ -62,6 +74,12 @@ Every Consultant/Engineer/Architect should have the following skills:
 * [Playing with Docker](https://training.play-with-docker.com/)
 * [Docker Deep Dive](http://blog.nigelpoulton.com/docker-certified-associate-study-materials/)
 * [DCA Prep Guide](https://github.com/DevOps-Academy-Org/dca-prep-guide)
+
+### Infrastructure as Code
+
+* [Getting Started with Terraform](https://www.terraform.io/guides/index.html)
+* [Getting Started with Ansible](https://docs.ansible.com/ansible/2.5/user_guide/intro_getting_started.html)
+* [Infrastructure Automation with Terraform Online Course](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/)
 
 ### Kubernetes
 
@@ -79,17 +97,16 @@ Every Consultant/Engineer/Architect should have the following skills:
 * [Migrate to Cloud Native Applications](https://content.pivotal.io/ebooks/migrating-to-cloud-native-application-architectures)
 * [The Twelve Factor App](https://12factor.net/)
 
-### Continuous Delivery
+### Observability & Monitoring
 
 Introduction
-* [Continuous Delivery by Jezz Humble and David Farley](https://continuousdelivery.com/)
-* [Continuous Delivery by Martin Fowler](https://martinfowler.com/bliki/ContinuousDelivery.html)
-* [CI/CD best practices](https://www.digitalocean.com/community/tutorials/an-introduction-to-ci-cd-best-practices)
+* [Very interesting blog about Cloud Native Monitoring](https://medium.com/@copyconstruct/monitoring-in-the-time-of-cloud-native-c87c7a5bfa3e)
+* [Cloud Native Monitoring Whitepaper from Weaveworks](https://www.weave.works/blog/monitoring-cloud-native-applications)
 
-Tools
-* [Circle CI](https://github.com/circleci)
-* [Gitlab CI/CD](https://about.gitlab.com/features/gitlab-ci-cd)
-* [Jenkins](https://www.jenkins.io)
+Cloud Native Observability with Prometheus:
+* [Getting Started with Prometheus](https://prometheus.io/docs/prometheus/latest/getting_started/)
+* [Prometheus Exporters and Integrations](https://prometheus.io/docs/instrumenting/exporters/)
+* [Kubernetes Prometheus Operator](https://coreos.com/operators/prometheus/docs/latest/)
 
 ## Certifications
 
