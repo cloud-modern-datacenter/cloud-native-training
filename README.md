@@ -47,6 +47,12 @@ Every Consultant/Engineer/Architect should have the following skills:
 * Experience with Containers and Orchestrators (Kubernetes, Mesos, Rancher or Nomad);
 * Experience with infrastructure as code and configuration management (Terraform, Cloudformation, Ansible or Puppet).
 
+### Cloud Native
+
+* [Cloud Native Computing Foundation](https://www.cncf.io/)
+* [Cloud-native Architecture: The Big Picture](https://www.pluralsight.com/courses/cloud-native-architecture-big-picture)
+* [The Twelve-Factor App](https://12factor.net/)
+
 ### Cloud Computing
 
 * [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
@@ -137,7 +143,7 @@ Kubernetes
 * [Certified Kubernetes Application Developer (CKAD)](https://www.cncf.io/certification/ckad/)
 
 Linux Foundation
-* [Certified SysAdmin (LFCS](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
+* [Certified SysAdmin (LFCS)](https://training.linuxfoundation.org/certification/linux-foundation-certified-sysadmin-lfcs/)
 * [Certified Engineer (LFCE)](https://training.linuxfoundation.org/certification/linux-foundation-certified-engineer-lfce/)
 
 Red Hat
