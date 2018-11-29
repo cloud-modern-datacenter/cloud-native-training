@@ -94,6 +94,8 @@ Tools
 * [Kubernetes Online Training](https://kubernetes.io/docs/tutorials/online-training/overview/)
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 * [Kubernetes By Example](http://kubernetesbyexample.com/)
+* [Kubernetes Certified Administrator Preparation](https://github.com/walidshaari/Kubernetes-Certified-Administrator)
+* [Kubernetes Certified Application Developer Preparation](https://github.com/twajr/ckad-prep-notes)
 
 ### Microservices
 
@@ -181,6 +183,8 @@ Red Hat
 * [DevOps Handbook](https://www.amazon.com/DevOps-Handbook-World-Class-Reliability-Organizations/)
 * [Docker Deep Dive](https://www.amazon.com/Docker-Deep-Dive-Nigel-Poulton/dp/1521822808/)
 * [Infrastructure as Code](https://www.amazon.com/Infrastructure-Code-Managing-Servers-Cloud/dp/1491924357/)
+* [Kubernetes App Developer](https://matthewpalmer.net/kubernetes-app-developer/)
+* [Kubernetes Up & Running](http://shop.oreilly.com/product/0636920043874.do)
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
 ### Other
