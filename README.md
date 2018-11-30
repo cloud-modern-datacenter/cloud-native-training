@@ -187,6 +187,15 @@ Red Hat
 * [Kubernetes Up & Running](http://shop.oreilly.com/product/0636920043874.do)
 * [The Phoenix Project](https://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262592)
 
+### Slack Channels
+
+* https://ansible-automation.slack.com
+* https://dockercommunity.slack.com
+* https://gcp-slack.appspot.com/
+* https://kubernetes.slack.com
+* https://og-aws.slack.com
+* https://vmwarecode.slack.com
+
 ### Other
 
 * [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native)
