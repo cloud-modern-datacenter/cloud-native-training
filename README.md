@@ -55,8 +55,13 @@ Every Consultant/Engineer/Architect should have the following skills:
 
 ### Cloud Computing
 
+AWS
 * [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
 * [AWS Certified Solutions Architect Associate Online Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+
+GCP:
+* [Architecting with Google Cloud Platform Specialization with Coursera](https://www.coursera.org/specializations/gcp-architecture)
+* [Developing Applications with Google Cloud Platform specialization with Coursera](https://www.coursera.org/specializations/developing-apps-gcp)
 
 ### Continuous Delivery
 
