@@ -133,6 +133,7 @@ Azure
 Google Cloud (GCP)
 * [Associate Cloud Engineer](https://cloud.google.com/certification/cloud-engineer/)
 * [Professional Cloud Architect](https://cloud.google.com/certification/cloud-architect/)
+* [Professional Cloud Developer](https://cloud.google.com/certification/cloud-developer/)
 
 DevOps
 * [Dasa DevOps Fundamentals](https://www.devopsagileskills.org/certifications/dasa-devops-fundamentals/)
