@@ -205,3 +205,4 @@ Red Hat
 ### Other
 
 * [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native)
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
