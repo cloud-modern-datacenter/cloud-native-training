@@ -95,6 +95,7 @@ Tools
 ### Kubernetes
 
 * [Introduction to Kubernetes Free Course](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+* [Katacoda](https://www.katacoda.com/)
 * [Kubernetes Bootcamp](https://kubernetesbootcamp.github.io/kubernetes-bootcamp/)
 * [Kubernetes Online Training](https://kubernetes.io/docs/tutorials/online-training/overview/)
 * [Kubernetes The Hard Way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
