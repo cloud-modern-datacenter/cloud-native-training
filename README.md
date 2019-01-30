@@ -59,7 +59,7 @@ AWS
 * [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
 * [AWS Certified Solutions Architect Associate Online Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
 * [AWS Learning Paths](https://aws.amazon.com/training/learning-paths/)
-* [AWS Training Methods](https://aws.amazon.com/training/)
+* [AWS Training Methods](https://aws.amazon.com/training/) 
 
 GCP:
 * [Architecting with Google Cloud Platform Specialization with Coursera](https://www.coursera.org/specializations/gcp-architecture)
