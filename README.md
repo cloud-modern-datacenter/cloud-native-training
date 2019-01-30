@@ -58,6 +58,8 @@ Every Consultant/Engineer/Architect should have the following skills:
 AWS
 * [AWS Certified Solutions Architect Associate Tips](https://github.com/pietheinstrengholt/aws-certified-solutions-architect-associate-exam-tips)
 * [AWS Certified Solutions Architect Associate Online Course](https://www.udemy.com/aws-certified-solutions-architect-associate/)
+* [AWS Learning Paths](https://aws.amazon.com/training/learning-paths/)
+* [AWS Training Methods](https://aws.amazon.com/training/)
 
 GCP:
 * [Architecting with Google Cloud Platform Specialization with Coursera](https://www.coursera.org/specializations/gcp-architecture)
@@ -126,11 +128,25 @@ Cloud Native Observability with Prometheus:
 ## Certifications
 
 AWS
-* [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-* [AWS Certified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
-* [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
-* [AWS Certified SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
-* [AWS Certified DevOps Engineer Associate](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+* Overview
+  * [AWS Certification](https://aws.amazon.com/certification/)
+
+* Cloud Practitioner
+  * [AWS Certified Cloud Practitioner](https://aws.amazon.com/training/path-cloudpractitioner/)
+
+* Associate
+  * [AWS Certified Solutions Architect Associate](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+  * [AWS Certified Developer Associate](https://aws.amazon.com/certification/certified-developer-associate/)
+  * [AWS Certified SysOps Administrator Associate](https://aws.amazon.com/certification/certified-sysops-admin-associate/)
+
+* Professional
+  * [AWS Certified Solutions Architect Professional](https://aws.amazon.com/certification/certified-solutions-architect-professional/)
+  * [AWS Certified DevOps Engineer Professional](https://aws.amazon.com/certification/certified-devops-engineer-professional/)
+
+* Speciality
+  * [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-security-specialty/)
+  * [AWS Certified Big Data - Specialty](https://aws.amazon.com/certification/certified-big-data-specialty/)
+  * [AWS Certified Advanced Networking - Specialty](https://aws.amazon.com/certification/certified-advanced-networking-specialty/)
 
 Azure
 * [Azure Developer Associate](https://www.microsoft.com/en-us/learning/azure-developer.aspx)
