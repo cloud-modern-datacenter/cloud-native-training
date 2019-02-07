@@ -91,6 +91,7 @@ Tools
 ### Infrastructure as Code
 
 * [Getting Started with Terraform](https://www.terraform.io/guides/index.html)
+* [Learning Terraform](https://learn.hashicorp.com/terraform/)
 * [Getting Started with Ansible](https://docs.ansible.com/ansible/2.5/user_guide/intro_getting_started.html)
 * [Infrastructure Automation with Terraform Online Course](https://www.udemy.com/learn-devops-infrastructure-automation-with-terraform/)
 
