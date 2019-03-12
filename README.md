@@ -219,8 +219,10 @@ Red Hat
 * https://kubernetes.slack.com
 * https://og-aws.slack.com
 * https://vmwarecode.slack.com
+* https://rancher-users.slack.com
 
 ### Other
 
 * [Awesome Cloud Native](https://github.com/rootsongjc/awesome-cloud-native)
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
+* [Awesome Rancher](https://github.com/jmreicha/awesome-rancher)
